@@ -1,4 +1,4 @@
-### Chatbot - Recruitment Bot using Azure QnA maker API
+## Recruitment Bot using Azure QnA maker API
 Basic functionalities of this bot includes collecting user information using Adaptive cards. Asking questions to the candidates about their preferences and help them fill the basic application details for the job post.
 
 **Multilingual** - Bot can understand the language used by the candidate and will then reply back in the same language.
